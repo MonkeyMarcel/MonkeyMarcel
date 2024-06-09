@@ -1,6 +1,6 @@
 # Welcome to My Digital Lair! 🦄🚀
 
-Greetings, traveler! I'm Marcel, a bold adventurer in the vast realms of Blockchain and Golang. As a curious freshman, I'm on an epic quest to master the arcane arts of protocol communication and contribute to legendary repositories.
+Greetings, traveler! I'm Marcel, a bold adventurer in the vast realms of Blockchain and Golang. 
 
 ## About Me
 - 🌱 **Learning**: Deep diving into the mysteries of Blockchain technology and the robust power of Golang.
